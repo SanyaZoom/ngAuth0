@@ -1,2 +1,2 @@
-# ngAuth0
-simple login page with Auth0 usage
+# Angular2quickstart
+base files from angular2quickstart
